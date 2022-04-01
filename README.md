@@ -1,29 +1,39 @@
 # Noah's Dev Site
 
-## All of the ideas
+## ideas / assets
 
-- About me page
+- Mobile first design
 
-- Past Projects
+- Personal Projects
 
   - academic
   - motorcycles
   - metal art
   - knives
 
-- Links / contacts
+- Code Projects
 
-  - github
-  - linkedIn
-  - email
-  - instagram?
-  - resume
+  - Scrounger
+  - chess
+  - dad's site? (once i get to it)
 
-- Data
+- assets
   - pictures
     - drive
     - instagram
     - google photos
-  -
 
-## views
+## Project Views
+
+- Bio (home)
+- personal projects
+- code projects
+- contact
+
+  - Links / contacts
+
+    - github
+    - linkedIn
+    - email
+    - instagram?
+    - resume
